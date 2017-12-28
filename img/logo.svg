@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<title>Dwarf Logo</title>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="A monochromatic version of Dwarf's logo">
+<dc:format>image/svg+xml</dc:format>
+<dc:title>Dwarf Logo</dc:title>
+<dc:creator>
+<cc:Agent>
+<dc:title>gudenau</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:description>Dwarf</dc:description>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(0 -924.36)">
+<g transform="matrix(-.31224 -.31224 -.31224 .31224 367.86 750.7)">
+<title>DwarfHammer</title>
+<g transform="translate(10)">
+<title>handle</title>
+<path d="m85 1036.4h22v-22l-22-12z" fill-rule="evenodd"/>
+<path d="m85 996.36 22 12v-22l-22-12z" fill-rule="evenodd"/>
+<path d="m85 968.36 22 12v-22l-22-12z" fill-rule="evenodd"/>
+<path d="m85 940.36 22 12v-22l-22-12z" fill-rule="evenodd"/>
+<path d="m85 912.36 22 12v-22l-22-12z" fill-rule="evenodd"/>
+<path d="m85 884.36 22 12v-28.001l-22 1e-5z" fill-rule="evenodd"/>
+</g>
+<g>
+<title>head</title>
+<path d="m75 867.36v-80c9e-6 -2.357-2.643-4.9999-5-4.9999h-15v90h15c2.357-1e-5 5-2.643 5-5z" fill-rule="evenodd"/>
+<path d="m0 881.36v-108c8.7444e-6 -2.357 2.7233-5.61 5-5l39 8c2.5147 0.67381 5 3.3966 5 6v90c-1e-5 2.6034-2.4853 5.3262-5 6l-39 8c-2.2767 0.61005-5-2.643-5-5z" fill-rule="evenodd"/>
+<path d="m137 867.36v-80c1e-5 -2.357 2.643-4.9999 5-4.9999h15v90h-15c-2.357 1e-5 -5-2.643-5-5z" fill-rule="evenodd"/>
+<path d="m212 881.36v-108c1e-5 -2.357-2.7233-5.61-5-5l-39 8c-2.5147 0.6738-5 3.3966-5 6v90c-1e-5 2.6034 2.4853 5.3262 5 6l39 8c2.2767 0.61003 5-2.643 5-5z" fill-rule="evenodd"/>
+<path d="m81.001 792.36-9.8e-5 70.001 50.001-7e-5 1e-4 -70.001z" fill-rule="evenodd"/>
+</g>
+<path d="m119.74 1054.4h-27.476c-1.0998 0-2.2616-1.1618-2.2616-2.2616l1e-6 -7.4781c4e-6 -1.1092 1.1458-2.2616 2.2616-2.2616h27.476c1.1086 0 2.2616 1.1529 2.2616 2.2616v7.4781c0 1.1089-1.1506 2.2616-2.2616 2.2616z" fill-rule="evenodd"/>
+</g>
+</g>
+</svg>
